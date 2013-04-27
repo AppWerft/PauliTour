@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="navi_tours">Rundgänge</string>
+	<string name="navi_map">Karte</string>
+	<string name="navi_scheduler">nächste Termine</string>
+	<string name="navi_tours">Rundgänge</string>
+	<string name="navi_chat">Tresenlegende</string>
+	<string name="navi_aw">Macher</string>
+	<string name="head_tours">St.Pauli-Touren</string>
+	<string name="CHAT_teaser">Ein Leben an den Theken un d Tresen des Stadtteils. Fragen, Antworten, Plaudereien mit einem Urgestein von hier. 
+		
+Jeden ersten Mittwoch im Monat, Eintritt frei, 
+Beginn: 20:00 Uhr
+</string>
+
+<string name="CHAT1">
+Moin Moin liebe Leude!
+
+Volume 1 war ein voller Erfolg. Nun kommt Volume zwei und rockt weiter. Mit wem? Mit Rosi von der Holstenschweme!
+
+Wer? Empire St. Pauli gucken, dann wisst ihr Bescheid. Rosi betreibt die Holstenschwemme seit Jahren- und erzählt gerne was in der Zeit so abging. Was sich verändert hat, und wie sich der Stadtteil so entwickelt. Was von St. Pauli, was von sich, was von der Holstenschwemme.
+
+Eintritt ist wie immer kostenlos, los gehts um 20 Uhr im Tourist Office. Kommt gerne n bisschen früher vorbei!
+
+P.S.: Gerne mal reingucken! Empire St. Pauli ist ein großartiger Film, Rosi ist auch drin. Viel Spass. 
+</string>
+	
+	
+	<string name="MOIN">Moin, Moin
+Hier ist St.Pauli!
+Hier schlägt unser Herz!
+Hier leben wir!
+
+Komm mit uns auf Tour mit Leuten, für die St.Pauli Heimat und Lebensgefühl ist.
+Lerne uns, unser Viertel, seine Klischees und seine Realität kennen, wie das Fernsehen es nie vermitteln.</string>
+
+<string name="KT_title">St.Pauli Kieztour</string>
+<string name="KT_teaser">Mit uns zu den Plätzen, die Geschichte schrieben. Reeperbahn, Grosse
+Freiheit und Herbertstrasse, Kieztanke, Davidswache und Spielbudenplatz.</string>
+<string name="KT_full">Herbertstraße, Davidwache, Hans-Albers-Platz, Große Freiheit und Kneipenstopp. Reeperbahn, Esso Tankstelle und Szeneviertel. Der Duft der weiten Welt. Ausgehtipps, Geschichte, Geschichten und Anekdoten.
+
+Der Kiez hat viel zu bieten. Geschichten, Anekdoten und Geheimtipps haben wir en masse – schließlich wohnen wir Guides allesamt im Viertel und vertüdeln unsere ganze Zeit auf dem Kiez.
+
+Unsere Touren sind geschichtlich fundiert, original, ungeschminkt und individuell. Wir verkleiden uns nicht, sondern sind 100% authentisch.
+
+Der Kiez
+Der Kiez ist Hamburgs berühmt berüchtigtes Ausgehviertel und Rotlichtmilieu. Wir zeigen euch diesen spannenden Teil St. Paulis bei der St. Pauli Kieztour. Auf dem Kiez prallen Welten aufeinander - Rotlicht auf Nobelhotels, Alternative Lebensweisen auf Partykultur, Punk auf Pop, Vorstädter auf Hamburger, Hamburg BesucherInnen auf alte St. Paulianer. Hier geht es bunt und wild zu.
+
+Kurz: Wer Hamburg besucht, muss St. Paulis Kiez erleben.
+
+Die spannende 400jährige Geschichte St. Paulis hat auch ihren Platz auf unserer Tour.
+
+Das St. Pauli Tourist Office und die Guides
+Wir vom St. Pauli Tourist Office haben uns gedacht: Wer kann euch den Stadtteil, den Kiez, am besten näher bringen? Und die Antwort kann nur lauten: Die St. PaulianerInnen selber. Daher werden alle unsere Touren von AnwohnerInnen geführt. Eines haben wir alle gemeinsam: Wir lieben diesen Stadtteil und wollen das einmalige Flair mit euch teilen.
+
+St. Pauli Kieztour oder: Was gibt es zu sehen?
+Kurz gesagt: Alles was der Kiez zu bieten hat. Davidwache, die Kieztanke, urige Kneipen, St. Pauli Theater, die Herbertstraße, die Große Freiheit und vieles vieles mehr.
+
+Also: Packt eure Sachen, schultert den Seesack, wir sehen uns auf St. Pauli!</string>
+
+<string name="GT_title">Grenzgang Gentrifikation</string>
+<string name="GT_full">Wir zeigen den Kampf unseres Viertels, seinen Charme zwischen ausufernden Amüsierbetrieb und neuen Investorenprojekten zu erhalten
+
+Spüre mit uns die historischen Ecken auf, die sonst kein Tourist zu sehen bekommt. Blicke mit uns hinter die Kulissen des berühmten Stadtteils und höre, was die Menschen hier bewegt.</string>
+
+<string name="ST_full">Diese Tour führt euch kreisförmig um das Heiligengeistfeld und zeigt euch das Aktuelle mit historischem Bezug. Das Ganze in dem Spannungsfeld zwischen Shopping- und Gastromeile versus Anwohnerinteressen.
+
+So gibt die Tour einen Überblick zu aktuellen Einkaufs- und Ausgehmöglichkeiten, rasanten Veränderungen, aktuellen Konflikten, deren historischen Kontext und geographische Einordnung.
+
+Ein langjähriger Anwohner zeigt euch (maximale Gruppenstärke: 15) circa zwei Stunden Ecken vom nördlichen Sankt Pauli, die ihr danach in Eigenregie selbst erleben könnt.
+</string>
+
+<string name="RT_title">St. Pauli – Ralleyquiz</string>
+<string name="RT_full">Das ganze Leben ist ein Quiz … und eine Rallye obendrein!
+
+Das St. Pauli Rallyequiz verbindet Rätselspaß mit einer St.Pauli Schnitzeljagd. Ihr erfahrt Geschichten und Geschichtliches aus St. Pauli und kommt bei den Aufgaben auf viefältige Weise mit den Menschen des Viertels in Kontakt.
+</string>
+
+
+
+
+
+
+<string name="MT_title">St. Pauli – Muckentour</string>
+<string name="MT_full">Wo war der Star Club, welche Clubs rocken am meisten, wo trinken Rocker und Punker ihr Bier, welche internationalen und lokalen Bands haben auf St. Pauli Geschichte geschrieben?
+
+Diese Tour gibt Einblick in die Musikgeschichte und Rockszene St. Paulis von den 50er-Jahren bis heute: von Beat, Independent, Rock’n’roll bis Punk.
+
+Dann machen wir einen Getränkestopp im Schlemmereck – Hauptquartier der Weltturbojugend. Beim Quiz könnt ihr ordentlich was gewinnen. Die ganze Tour garnieren wir durch aktuelle Veranstaltungs- und Konzerttipps.
+
+Interesse? Spezielle Wünsche? Wir kümmern uns um euch, damit euer Hamburgbesuch ordentlich rockt.</string>
+
+
+
+
+<string name="KR_title">St. Pauli – Krimitour</string>
+<string name="KR_full">
+Der große Hafen, die käufliche Liebe und die Hoffnung auf die schnelle Mark haben auf dem Kiez nicht wenige auf die schiefe Bahn gebracht. Die Reeperbahn und dunkle Seitenstraßen waren schon immer Schauplatz für Gewalt, Verbrechen und finstere Geschäfte.
+
+Die historische Krimitour führt durch ein Jahrhundert hochkrimineller Ereignisse, an die sich so mancher gar nicht mehr erinnern kann oder will.
+
+Kenntnisreich geleitet Reverend Roosen seine Gäste zu Tatorten und vermittelt einen erschreckend realen Blick auf genau recherchierte Fälle. Erlebt die Geschichte des mordenden Friseurs Otto Kneipp, erfahrt, wo der Psychopath Fritz Honka nach Frauen Ausschau hielt und wandelt auf den Spuren der Zuhälterkriege der 80er Jahre. Auch heute schläft das Verbrechen noch längst nicht. Immer noch treiben üble Ganoven ihr böses Spiel auf dem Kiez. Doch denen gehen wir aus dem Weg. Versprochen!
+
+Die St. Pauli Krimitour wurde erdacht und zusammenrecherchiert von Reverend Roosen, Autor bei reeperbahn.de, dem Verbrechen stets auf der Spur.
+</string>
+
+
+
+
+</resources>
