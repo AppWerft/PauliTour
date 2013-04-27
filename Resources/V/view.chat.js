@@ -18,7 +18,7 @@ view.chat = ( function() {
 				layout : 'vertical',
 				contentHeight : Ti.UI.SIZE || 'auto',
 				backgroundColor : 'black',
-			});
+			});    
 			win1.add(container);
 			container.add(Ti.UI.createLabel({
 				top : 10,
